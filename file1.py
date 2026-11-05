@@ -1,9 +1,1 @@
-print("Hello world")
-print("Hi")
-
-print("Hello world")
-print("Hi")
-
-
-print("Hello world")
-print("Hi")
+a = 10000
